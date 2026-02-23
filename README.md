@@ -1,5 +1,6 @@
 # STEPPER MOTOR INTERFACING
-
+## NAME: DEJASHINI T P
+## REG NO: 212224060055
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
 
@@ -70,6 +71,8 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+<img width="777" height="582" alt="image" src="https://github.com/user-attachments/assets/9cb6a7f8-21f9-4027-9451-f62c6c1a89df" />
+
 
 ## RESULT
 
